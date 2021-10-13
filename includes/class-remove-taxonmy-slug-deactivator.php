@@ -30,7 +30,7 @@ class Remove_Taxonmy_Slug_Deactivator {
 	 * @since    1.0.0
 	 */
 	public static function deactivate() {
-
+		delete_option( 'remove_taxnomy_slug');
 	}
 
 }

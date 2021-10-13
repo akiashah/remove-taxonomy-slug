@@ -30,6 +30,9 @@ class Remove_Taxonmy_Slug_Activator {
 	 * @since    1.0.0
 	 */
 	public static function activate() {
+		//remove_taxnomy_slug
+		$data = array();
+		update_option('remove_taxnomy_slug', $data);
 
 	}
 
