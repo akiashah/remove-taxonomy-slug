@@ -59,8 +59,6 @@ e.g.
 == Screenshots ==
 
 1. Admin side setting screenshot.
-(or jpg, jpeg, gif).
-2. This is the second screen shot
 
 == Changelog ==
 
